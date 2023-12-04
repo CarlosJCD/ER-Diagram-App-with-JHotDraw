@@ -35,7 +35,7 @@ public class ERApp extends DrawApplication {
 
         Tool tool = new TextTool(this, new TextFigure());
         palette.add(createToolButton(IMAGES + "TEXT", "Edit Text", tool));
-        
+
         tool = new ConnectedTextTool(this, new TextFigure());
         palette.add(createToolButton(IMAGES + "ATEXT", "Create Relation Label", tool));
 
