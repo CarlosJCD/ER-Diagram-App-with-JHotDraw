@@ -21,7 +21,7 @@
 
 - Al pasar el cursor encima de los botones, después de un par de segundos debe de aparecer un tooltip indicando el nombre de la herramienta.
 
-- De igual forma, al pasar el cursos encima de un botón, en la parte inferior de la ventana aparece inmediatamente el nombre de la herramienta
+- De igual forma, al pasar el cursor encima de un botón, en la parte inferior de la ventana aparece inmediatamente el nombre de la herramienta
 
 ## Entidades
 
@@ -29,23 +29,23 @@
 
 ![Proceso Crear Entidad](/images/entidades/crearEntidad.gif)
 
-1. Haga click en el botón de nueva entidad (cuadrado verde)
-2. Al hacer click su cursor se pondrá en forma de cruz, haga click en cualquier otro lado del canvas para insertar la entidad
+1. Haga click en el botón de la herramienta `New Entity`
+2. Al hacer click su cursor se pondrá en forma de cruz, haga click en cualquier otro lado del canvas para insertar la entidad.
 
 ### Editar nombre de una entidad
 
 ![Proceso Editar Entidad](/images/entidades/editarEntidad.gif)
 
-1. Haga click en el botón "Edit Text". Al hacer click su cursor tomará forma de cruz, esto significa que la herramienta esta activa
+1. Haga click en el botón de la herramienta "Edit Text". Al hacer click su cursor tomará forma de cruz, esto significa que la herramienta esta activa.
 2. Luego, haga click sobre una entidad, le debe de abrir una caja para editar el nombre de la entidad.
-3. Después de realizar los cambios deseados, presione enter para cerrar la caja de editar.
+3. Después de realizar los cambios deseados, presione enter o haga click en cualquier lado para cerrar la caja de editar texto.
 
 ### Eliminar una entidad
 
 ![Proceso Eliminar una entidad](/images/entidades/borrarEntidad.gif)
 
 1. Haga click sobre una entidad.
-2. Una vez hecho click sobre la entidad presione la tecla de retroceso.
+2. Una vez hecho click sobre la entidad presione la tecla `retroceso`, `eliminar` o `suprimir`.
 
 ## Relaciones
 
@@ -53,7 +53,7 @@
 
 ![Proceso dibujar una relación](/images/relaciones/crearRelacion.gif)
 
-1. Haga click sobre cualquier una herramienta para crear una relacion.
+1. Haga click sobre cualquiera de las 4 herramientas para crear una relación (1:1, 1:n, n:1, n:n).
 2. Una vez hecho click, pase el cursor sobre una entidad, le deben de aparecer los puntos conectores de la entidad en formar de puntos azules.
 3. Haga click sobre cualquier conector que desee y arrastre el cursor hacia un conector de cualquier otra entidad. Observe como se va trazando la relación.
 4. Una vez el cursor encima del segundo conector, suelte el click y mire como se añade la punta del conector que antes seguía su cursor en este segundo conector.
